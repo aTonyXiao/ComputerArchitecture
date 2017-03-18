@@ -1,0 +1,28 @@
+Scores from p5 for Xiao,Tony Sin,Ho Lun 
+Addresses used: bxiao@ucdavis.edu,hsin@ucdavis.edu, 
+dmcache.cpp:
+Testing dmtest-8-64-1000-4.txt: 
+OK
+Testing dmtest-8-64-1000-5.txt: 
+OK
+Testing dmtest-8-64-1000-6.txt: 
+OK
+
+sacache.cpp: 
+Testing satest-1000-4.txt: 
+OK
+Testing satest-1000-5.txt: 
+OK
+Testing satest-1000-6.txt: 
+OK
+
+vm.cpp: 
+Testing vmtest-1000-4.txt: 
+OK
+Testing vmtest-1000-5.txt: 
+OK
+Testing vmtest-1000-6.txt: 
+OK
+Testing vmtest-1000-7.txt: 
+OK
+Total score: 15 + 15 + 20 = 50
